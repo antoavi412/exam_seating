@@ -1,0 +1,84 @@
+═══════════════════════════════════════════════════════════════════
+    EXAM SEATING ARRANGEMENT SYSTEM - START HERE!
+═══════════════════════════════════════════════════════════════════
+
+👋 Welcome! This is your complete Exam Seating System.
+
+🚀 TO RUN NOW:
+─────────────────────────────────────────────────────────────────
+
+Just run this ONE command in your terminal:
+
+    ./setup_and_run.sh
+
+That's all! It will handle everything automatically.
+
+─────────────────────────────────────────────────────────────────
+
+📝 WHAT IT DOES:
+─────────────────────────────────────────────────────────────────
+
+1. Installs Java 17 (if not installed)
+2. Installs Maven (if not installed)  
+3. Installs Node.js (if not installed)
+4. Builds the Spring Boot backend
+5. Installs React dependencies
+6. Starts both applications
+7. Opens your browser to http://localhost:5173
+
+─────────────────────────────────────────────────────────────────
+
+⏱️ FIRST TIME:
+─────────────────────────────────────────────────────────────────
+
+First run takes 5-10 minutes (downloads dependencies)
+Subsequent runs take 30 seconds
+
+─────────────────────────────────────────────────────────────────
+
+✅ YOU'LL KNOW IT WORKED WHEN:
+─────────────────────────────────────────────────────────────────
+
+✓ Browser opens automatically
+✓ Dashboard shows "200 students, 5 halls"
+✓ You can navigate between pages
+✓ Exams page shows sample exams
+
+─────────────────────────────────────────────────────────────────
+
+🎯 TRY THE MAIN FEATURE:
+─────────────────────────────────────────────────────────────────
+
+1. Click "Exams" in the navigation
+2. Find "Data Structures and Algorithms"
+3. Click "Allocate Seating" button ⭐
+4. Click "Seating Plan" in navigation
+5. Select the exam from dropdown
+6. See the smart seating arrangement!
+
+Notice: No students from same department sit adjacent!
+
+─────────────────────────────────────────────────────────────────
+
+📖 MORE HELP:
+─────────────────────────────────────────────────────────────────
+
+• RUN_NOW.txt - Quick instructions
+• HOW_TO_RUN.md - Detailed guide
+• README.md - Full documentation
+• docs/ folder - All documentation
+
+─────────────────────────────────────────────────────────────────
+
+🛑 TO STOP:
+─────────────────────────────────────────────────────────────────
+
+Just close the terminal windows that open.
+
+─────────────────────────────────────────────────────────────────
+
+Ready? Run this now:
+
+    ./setup_and_run.sh
+
+═══════════════════════════════════════════════════════════════════
